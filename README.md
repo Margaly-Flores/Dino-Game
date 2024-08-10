@@ -1,5 +1,5 @@
 # Dino Game  🦖
-####**¡Bienvenidos a Dino Game!**
+#### **¡Bienvenidos a Dino Game!**
 Este juego es una versión del conocido juego*"Chrome Dino"*, que se activa automáticamente cuando ingresas a una página y no tienes conexión a internet.  
 
 ### ¿Cómo jugar? 
