@@ -1,6 +1,6 @@
 # Dino Game  🦖
 #### **¡Bienvenidos a Dino Game!**
-Este juego es una versión del conocido juego*"Chrome Dino"*, que se activa automáticamente cuando ingresas a una página y no tienes conexión a internet.  
+Este juego es una versión del conocido juego *"Chrome Dino"*, que se activa automáticamente cuando ingresas a una página y no tienes conexión a internet.  
 
 ### ¿Cómo jugar? 
 - **Obejtivo: ** El objetivo del juego es ayudar al dinosaurio a seguir su recorrido superando una serie de obstáculos como cáctus de diferentes tamaños y aves a diferentes alturas. 
