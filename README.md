@@ -11,8 +11,11 @@ Este juego es una versión del conocido juego *"Chrome Dino"*, que se activa aut
 
 + **Controles:** 
 	+ **Flecha arriba:** Hacer que el dinosaurio salte. 
+
 	![](https://drive.google.com/thumbnail?id=1rGwiLMM2lWpX3TmcJTLi3fN6HHKpIRpa&sz=w1000)
+
 	+ **Flecha abajo:** Hacer que el dinosaurio se agache. 
+
 	![](https://drive.google.com/thumbnail?id=1FdEhqLv1OcPyVOu4vuSh4h_nl5siBc_K&sz=w1000)
 
 Puedes iniciar el juego presionando cualquier tecla y jugar cada intento el tiempo que desees mientras mantengas al dinosaurio sin chocar con ningún obstáculo. 
